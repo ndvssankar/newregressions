@@ -1,0 +1,16 @@
+{"_id":null,
+"field_test_unique_id":"/Users/sigtrak/testdata/regressions/pcixp_rev1_ep_0.8/1/auto_completionsEP",
+"field_test_result":"PASSED", 
+"field_test_error":null,
+"field_test_directory":"/Users/sigtrak/testdata/regressions/pcixp_rev1_ep_0.8/1",
+"field_test_regression":"pcixp_rev1_ep_0.8/1",
+"field_test_directory_date":"28/01/2016 02:09:06",
+"field_test_project":"pcixp_rev1",
+"field_test_module":"ep",
+"field_test_release":"0.8",
+"field_test_sim_time":113236,
+"field_test_time_completed":"29/12/2015 17:43:38",
+"field_test_name":"auto_completionsEP",
+"field_test_seed":0,
+"field_build_seed":0
+}

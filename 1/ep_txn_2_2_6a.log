@@ -1,0 +1,3 @@
+# vsim -do vsim.do -c -suppress 4029 -novopt pex_tb 
+# ** Error: (vsim-3170) Could not find '/home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pex_tb'.
+Error loading design

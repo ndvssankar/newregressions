@@ -1,0 +1,223 @@
+# vsim -do vsim.do -c -suppress 4029 -novopt pex_tb 
+# //  QuestaSim 6.3a Jun 25 2007 Linux 2.4.18-3smp
+# //
+# //  Copyright 1991-2007 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pex_tb
+# Loading work.pex_tb
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.PexRc
+# Loading work.PexRc
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pcixp_rc
+# Loading work.pcixp_rc
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pcixp_tl
+# Loading work.pcixp_tl
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tlrx
+# Loading work.tlrx
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.sfMxN
+# Loading work.sfMxN
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.xpmem
+# Loading work.xpmem
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_arb
+# Loading work.tltx_arb
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_top
+# Loading work.tltx_top
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_bridge
+# Loading work.tltx_bridge
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_router
+# Loading work.tltx_router
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_tcm
+# Loading work.tltx_tcm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_tc
+# Loading work.tltx_tc
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_vc2tcmap
+# Loading work.tltx_vc2tcmap
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_fcm
+# Loading work.tltx_fcm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_fc
+# Loading work.tltx_fc
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.tltx_assembler
+# Loading work.tltx_assembler
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.lcrc32
+# Loading work.lcrc32
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pcixp_dll
+# Loading work.pcixp_dll
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dltx_assembler
+# Loading work.dltx_assembler
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.crc16
+# Loading work.crc16
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dltx_scheduler
+# Loading work.dltx_scheduler
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dltx_rty
+# Loading work.dltx_rty
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dltx_retire
+# Loading work.dltx_retire
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dltx_tlp
+# Loading work.dltx_tlp
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dltx_dllp
+# Loading work.dltx_dllp
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dltx_cntr
+# Loading work.dltx_cntr
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dlrx_tlp
+# Loading work.dlrx_tlp
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dlrx_dllp
+# Loading work.dlrx_dllp
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.dlcmsm
+# Loading work.dlcmsm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.fcinit
+# Loading work.fcinit
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pcixp_pl
+# Loading work.pcixp_pl
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_ltssm
+# Loading work.pl_ltssm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_det_ssm
+# Loading work.pl_det_ssm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_pol_ssm
+# Loading work.pl_pol_ssm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_l0s_ssm
+# Loading work.pl_l0s_ssm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_dsb_ssm
+# Loading work.pl_dsb_ssm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_hrst_ssm
+# Loading work.pl_hrst_ssm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_cfg_ssm
+# Loading work.pl_cfg_ssm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_rec_ssm
+# Loading work.pl_rec_ssm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_framer
+# Loading work.pl_framer
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_scrm
+# Loading work.pl_scrm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_descrm
+# Loading work.pl_descrm
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pl_deframer
+# Loading work.pl_deframer
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pi_cfg
+# Loading work.pi_cfg
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pi_arbiter
+# Loading work.pi_arbiter
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pipe8or16
+# Loading work.pipe8or16
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.interface_monitor
+# Loading work.interface_monitor
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pm_disp
+# Loading work.pm_disp
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.mem_model
+# Loading work.mem_model
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.PexEp
+# Loading work.PexEp
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pcixp_ep
+# Loading work.pcixp_ep
+# Refreshing /home/anand/pcixp/pcixp_rev1/VlogSim/run/work.pex_mem_agent
+# Loading work.pex_mem_agent
+# ** Warning: (vsim-3017) ../../rtl/top/pcixp_dll.v(586): [TFMPC] - Too few port connections. Expected 34, found 33.
+#         Region: /pex_tb/PEX_RC/PCIXP_RC/PCIXP_DLL/u_DLTX_CNTR
+# ** Warning: (vsim-3017) ../../rtl/top/pcixp_dll.v(586): [TFMPC] - Too few port connections. Expected 34, found 33.
+#         Region: /pex_tb/PEX_EP_0/PCIXP_EP/PCIXP_DLL/u_DLTX_CNTR
+# do vsim.do 
+# resume
+# 
+# 
+# 
+# 
+# 		   DATA FROM EP -> RC 
+# 
+# 
+#  
+# 
+#  Time= @[60452] The  value of din  at Address = 4  of cfg_set ( EP -> RC ) = 000007f4 
+#  Time = @[60492] The value of dout at Address = 0004  of cfg_get ( EP -> RC ) 
+#  Actual Data :  00100544 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[60916] The  value of din  at Address = 40  of cfg_set ( EP -> RC ) = abcdefab 
+#  Time = @[60956] The value of dout at Address = 0040  of cfg_get ( EP -> RC ) 
+#  Actual Data :  abcd4801 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[61380] The  value of din  at Address = 44  of cfg_set ( EP -> RC ) = 5555aaaa 
+#  Time = @[61420] The value of dout at Address = 0044  of cfg_get ( EP -> RC ) 
+#  Actual Data :  feedbeef 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[61844] The  value of din  at Address = 48  of cfg_set ( EP -> RC ) = eeeeffff 
+#  Time = @[61884] The value of dout at Address = 0048  of cfg_get ( EP -> RC ) 
+#  Actual Data :  00016c10 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[62308] The  value of din  at Address = 4c  of cfg_set ( EP -> RC ) = abcdef12 
+#  Time = @[62348] The value of dout at Address = 004c  of cfg_get ( EP -> RC ) 
+#  Actual Data :  5e6f780d 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[62772] The  value of din  at Address = 50  of cfg_set ( EP -> RC ) = 000057af 
+#  Time = @[62812] The value of dout at Address = 0050  of cfg_get ( EP -> RC ) 
+#  Actual Data :  000057af 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[63236] The  value of din  at Address = 54  of cfg_set ( EP -> RC ) = 12345678 
+#  Time = @[63276] The value of dout at Address = 0054  of cfg_get ( EP -> RC ) 
+#  Actual Data :  00000601 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[63700] The  value of din  at Address = 58  of cfg_set ( EP -> RC ) = 000000fb 
+#  Time = @[63740] The value of dout at Address = 0058  of cfg_get ( EP -> RC ) 
+#  Actual Data :  001100fb 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[64164] The  value of din  at Address = 5c  of cfg_set ( EP -> RC ) = ab23cd56 
+#  Time = @[64204] The value of dout at Address = 005c  of cfg_get ( EP -> RC ) 
+#  Actual Data :  12345678 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[64628] The  value of din  at Address = 60  of cfg_set ( EP -> RC ) = 000007ff 
+#  Time = @[64668] The value of dout at Address = 0060  of cfg_get ( EP -> RC ) 
+#  Actual Data :  000007ff 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[65092] The  value of din  at Address = 64  of cfg_set ( EP -> RC ) = 0000000f 
+#  Time = @[65132] The value of dout at Address = 0064  of cfg_get ( EP -> RC ) 
+#  Actual Data :  0000000f 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[65556] The  value of din  at Address = 6c  of cfg_set ( EP -> RC ) = 1a2b3c4d 
+#  Time = @[65596] The value of dout at Address = 006c  of cfg_get ( EP -> RC ) 
+#  Actual Data :  00010002 
+#  Read/Write passed 
+#  
+# 
+#  Time= @[66020] The  value of din  at Address = 70  of cfg_set ( EP -> RC ) = 5555eeee 
+#  Time = @[66060] The value of dout at Address = 0070  of cfg_get ( EP -> RC ) 
+#  Actual Data :  00000007 
+#  Read/Write passed 
+#  
+# 
+#  Total Registers = 13 	 Read/Write Passed = 13 
+# 
+#  Endpoint READ/WRITE 
+# 
+# 
+# Checking for Left over packets in TX array 
+# 
+[66060] TEST PASSED 
+# 
+[106060] Simulation DONE
+# 
+# ** Note: $finish    : ./../tb/pex_tb.v(315)
+#    Time: 107660 ns  Iteration: 0  Instance: /pex_tb
